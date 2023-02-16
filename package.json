@@ -7,7 +7,6 @@
     "start": "sl-express start",
     "dev": "NODE_ENV=development nf --procfile Procfile.dev start",
     "console": "sl-express asyncConsole",
-    "build": "vite build",
     "vite:dev": "vite",
     "vite:build": "vite build",
     "vite:preview": "vite preview"
